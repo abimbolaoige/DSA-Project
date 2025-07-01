@@ -1,16 +1,15 @@
 # DSA-Excel-Project
 Summarization of the Amazon Product Review Dataset
-### 🔍 **Purpose**
+### Purpose
 
-This dataset provides insights into Amazon products, their pricing, discounts, ratings, and customer engagement. It's designed to help businesses improve their product strategy, marketing efforts, and customer experience on e-commerce platforms.
+This dataset provides insights into Amazon products, their pricing, discounts, ratings, and customer engagement. The analysis aims to derive actionable insights from Amazon product listings to inform decisions related to pricing, product quality, customer satisfaction, and marketing strategy. This is part of Retail Tech Insights’ mission to help e-commerce sellers grow through data-driven strategies.
 
-### 📊 **Dataset Overview**
+### Dataset Overview
 
-* **Total Products:** 1,465
-* **Total Columns:** 16
-* **Source:** Amazon product listings (scraped data)
+* Total Products: 1,465
+* Total Columns of original data: 16, including product details, pricing, ratings, and review metadata.
 
-### 🗂️ Key Data Fields
+### Key Data Fields
 
 | Column Name                                   | Description                                           |
 | --------------------------------------------- | ----------------------------------------------------- |
@@ -31,20 +30,71 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
 | `Price Range Bucket`                          |  =IF([@[discounted_price]]<200, "<200", IF([@[discounted_price]]<=500, "200–500", ">500"))  |
 | `Rating Count <1000`                          | Generated using: =IF([@[rating_count]]<1000, 1, 0)    |
 
-### 💡 Insights I Derived
 
-1. Pricing Strategy: Understand average discounts and pricing by category.
-2. Customer Engagement: Analyze review volume and content to spot trends.
-3. Product Performance: Identify top-rated, most-reviewed, or best-selling products.
-4. Revenue Potential: Estimate earnings using ratings and price data.
-5. Category Performance: Compare product count, ratings, and revenue by category.
+### How the Analysis Was Done
 
+1. Tool Used: Microsoft Excel
 
-### 📁 Cases
+3. Data Preparation Steps:
 
-* Marketing & Promotion Planning
-* Product Listing Optimization
-* Competitor Analysis
-* Customer Satisfaction Monitoring
-* Inventory & Revenue Forecasting
+   * Cleaned and verified column data types (e.g., numeric fields like `rating`, `discount_percentage`)
+   * Added calculated columns such as:
+
+     * `Revenue Potential = actual_price × rating_count`
+     * `Combined Score = rating × rating_count`
+     * `Price Buckets` for grouping products by price
+   * Created pivot tables for category-wise aggregation
+
+4. Visualization:
+
+   * Used Pivot Charts (Bar, Column, Pie) to illustrate:
+
+     * Average discounts by category
+     * Distribution of ratings
+     * Review count and revenue per category
+     * Relationship between discount level and rating
+     * Top-performing products
+
+5. KPIs Highlighted on Dashboard:
+
+   * Average Rating
+   * Total Products
+   * Total Reviews
+   * Total Potential Revenue
+   * % of Products with ≥50% Discount
+
+### Key Insights from Analysis
+
+* High-Discount Products tend to receive high customer engagement but not necessarily higher ratings.
+* Some categories offer large discounts (up to 90%), which can be leveraged in promotions.
+* A significant number of products have fewer than 1,000 reviews, indicating limited visibility or popularity.
+* Top-rated products are not always the most-reviewed, suggesting potential for review campaigns to boost credibility.
+* Average discounts vary by category, indicating pricing flexibility in some product segments.
+
+### Suggestions for Product Development & Improvement
+
+1. Optimize Discount Strategy
+
+   * Consider targeted discount campaigns in categories where average ratings remain high despite deep discounts.
+
+2. Boost Under-Reviewed Products
+
+   * Launch engagement campaigns (e.g., discounts for reviews) to increase visibility and credibility of products with low review counts.
+
+3. Improve Product Listings
+
+   * Enhance titles, images, and descriptions based on content analysis of high-performing products.
+
+4. Focus on High-Revenue Categories
+
+   * Allocate resources to categories generating higher potential revenue to maximize return on investment.
+
+5. Track Rating-Discount Balance
+
+   * Avoid excessive discounts on poorly-rated products without quality improvements, as this can damage brand perception.
+
+### Conclusion
+
+The Excel-based analysis of Amazon product data provided valuable insights into pricing trends, customer engagement, and category performance. These findings can help guide product development decisions, enhance marketing effectiveness, and boost customer satisfaction on Amazon.
+
 
