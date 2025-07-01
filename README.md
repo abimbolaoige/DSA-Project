@@ -1,6 +1,13 @@
 # DSA-Excel-Project
 #### File Link: https://docs.google.com/spreadsheets/d/1DEV3-RnVNG8_VuR0mik3damnM4STeV2U/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true
-Summarization of the Amazon Product Review Dataset
+
+#### Excel Sheets Highlight:
+1. Sheet 1: Answers to the questions using Pivot Table
+2. Sheet 2: Pivot Table for Amazon Product Review dashboard
+3. Sheet 3: Dashboard View
+4. Sheet 4: Amazon Dataset Table
+   
+#### Summarization of the Amazon Product Review Dataset
 ### Purpose
 
 This dataset provides insights into Amazon products, their pricing, discounts, ratings, and customer engagement. The analysis aims to derive actionable insights from Amazon product listings to inform decisions related to pricing, product quality, customer satisfaction, and marketing strategy. This is part of Retail Tech Insights’ mission to help e-commerce sellers grow through data-driven strategies.
