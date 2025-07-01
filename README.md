@@ -57,10 +57,12 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
 
 5. KPIs Highlighted on Dashboard:
 
-   * Average Rating
    * Total Products
-   * Total Reviews
    * Total Potential Revenue
+   * Average Discount Price
+##### Slicers
+   * Rating
+   * Price Range Bucket
    * % of Products with ≥50% Discount
 
 ### Key Insights from Analysis
