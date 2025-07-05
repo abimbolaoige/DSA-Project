@@ -1,3 +1,4 @@
+```
 ## PROJECT 1
 # DSA-Excel-Project
 #### File Link: https://docs.google.com/spreadsheets/d/1DEV3-RnVNG8_VuR0mik3damnM4STeV2U/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true
@@ -107,8 +108,8 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
 ### Conclusion
 
 The Excel-based analysis of Amazon product data provided valuable insights into pricing trends, customer engagement, and category performance. These findings can help guide product development decisions, enhance marketing effectiveness, and boost customer satisfaction on Amazon.
-
-
+```
+```
 ## PROJECT 2 - POWER BI
 
 # DSA-Power-BI-Project
