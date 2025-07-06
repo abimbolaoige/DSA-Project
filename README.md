@@ -1,6 +1,9 @@
 ## PROJECT 1
 # DSA-Excel-Project
-#### File Link: https://docs.google.com/spreadsheets/d/1DEV3-RnVNG8_VuR0mik3damnM4STeV2U/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true
+[View my dataset](https://docs.google.com/spreadsheets/d/1L4SkcxuRjEoCU05iiLEetrfOlq3KEO2X/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
+
+![image](https://github.com/user-attachments/assets/f0693b60-af13-4014-b581-73ffafb925f5)
+
 
 #### Excel Sheets Highlight:
 1. Sheet 1: Answers to the questions using Pivot Table
@@ -107,6 +110,10 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
 ### Conclusion
 
 The Excel-based analysis of Amazon product data provided valuable insights into pricing trends, customer engagement, and category performance. These findings can help guide product development decisions, enhance marketing effectiveness, and boost customer satisfaction on Amazon.
+[View my Analysis](https://docs.google.com/spreadsheets/d/1DEV3-RnVNG8_VuR0mik3damnM4STeV2U/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/abimbola-ige-6a7377287/)
+
 ```
 ```
 ## PROJECT 2 - POWER BI
@@ -114,6 +121,8 @@ The Excel-based analysis of Amazon product data provided valuable insights into 
 # DSA-Power-BI-Project
 
 ### Palmoria Group HR Data Analysis — Summarization
+[View my Emp Table dataset](https://drive.google.com/file/d/1N56ApuETitFriEKixbWS-IKKI8NocARf/view?usp=drive_link)
+[View my Bonus Rule dataset](https://docs.google.com/spreadsheets/d/1bzsF2O6jA3WzO8CGV849qJdO40vSlBiL/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
 
 #### Project Background
 
@@ -176,9 +185,11 @@ Additionally, bonus rules were cleaned by unpivoting department-based percentage
 
 This analysis equips Palmoria’s management with critical insights to foster gender equity, ensure regulatory compliance, and create a data-driven roadmap for HR transformation. These insights are essential for enhancing employee satisfaction, brand perception, and long-term global expansion.
 
-Attached is the pdf file link; https://drive.google.com/file/d/17Ntne1CurVZEVzsPcyUmO1fiwEhxzVs4/view?usp=drive_link and the 
-power BI file link; https://drive.google.com/file/d/1cmOsg6njUa2RmVYQ2JSQwVcL2p7AdvGy/view?usp=drive_link
-https://www.linkedin.com/in/abimbola-ige-6a7377287
+Attached is the pdf file link; 
+[View my pdf Power BI Analysis](https://drive.google.com/file/d/17Ntne1CurVZEVzsPcyUmO1fiwEhxzVs4/view?usp=drive_link) and  
+[View my Power BI Analysis](https://drive.google.com/file/d/1cmOsg6njUa2RmVYQ2JSQwVcL2p7AdvGy/view?usp=drive_link)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/abimbola-ige-6a7377287)
+
 ```
 
 
