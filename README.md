@@ -110,6 +110,8 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
 ### Conclusion
 
 The Excel-based analysis of Amazon product data provided valuable insights into pricing trends, customer engagement, and category performance. These findings can help guide product development decisions, enhance marketing effectiveness, and boost customer satisfaction on Amazon.
+![Screenshot (77)](https://github.com/user-attachments/assets/28fd51b1-8271-47a6-91a5-2755add33f59)
+
 [View my Analysis](https://docs.google.com/spreadsheets/d/1DEV3-RnVNG8_VuR0mik3damnM4STeV2U/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/abimbola-ige-6a7377287/)
@@ -184,6 +186,8 @@ Additionally, bonus rules were cleaned by unpivoting department-based percentage
 ### Conclusion
 
 This analysis equips Palmoria’s management with critical insights to foster gender equity, ensure regulatory compliance, and create a data-driven roadmap for HR transformation. These insights are essential for enhancing employee satisfaction, brand perception, and long-term global expansion.
+
+![Screenshot (78)](https://github.com/user-attachments/assets/08d3f323-3195-4712-ab8f-c046491b3f20)
 
 Attached is the pdf file link; 
 [View my pdf Power BI Analysis](https://drive.google.com/file/d/17Ntne1CurVZEVzsPcyUmO1fiwEhxzVs4/view?usp=drive_link) and  
