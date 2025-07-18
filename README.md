@@ -20,7 +20,7 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
 ### Dataset Overview
 
 * Total Products: 1,465
-* Total Columns of original data: 16, including product details, pricing, ratings, and review metadata.
+* Total Columns of original data: 16, and a total of 20 after adding 4 columns; Products with 50%/> Discount, Total Potential Revenue, Price Range Bucket, and Rating Count <1000. 
 
 ### Key Data Fields
 
@@ -73,6 +73,7 @@ This dataset provides insights into Amazon products, their pricing, discounts, r
    * Total Products
    * Total Potential Revenue
    * Average Discount Price
+     
 ##### Slicers
    * Rating
    * Price Range Bucket
