@@ -4,6 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/f0693b60-af13-4014-b581-73ffafb925f5)
 
+[View my Analysis](https://docs.google.com/spreadsheets/d/1DEV3-RnVNG8_VuR0mik3damnM4STeV2U/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
 
 #### Excel Sheets Highlight:
 1. Sheet 1: Answers to the questions using Pivot Table
@@ -123,8 +124,8 @@ The Excel-based analysis of Amazon product data provided valuable insights into 
 # DSA-Power-BI-Project
 
 ### Palmoria Group HR Data Analysis — Summarization
-[View my Emp Table dataset](https://drive.google.com/file/d/1N56ApuETitFriEKixbWS-IKKI8NocARf/view?usp=drive_link)
-[View my Bonus Rule dataset](https://docs.google.com/spreadsheets/d/1bzsF2O6jA3WzO8CGV849qJdO40vSlBiL/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
+[View the Emp Table dataset](https://drive.google.com/file/d/1N56ApuETitFriEKixbWS-IKKI8NocARf/view?usp=drive_link)
+[View the Bonus Rule dataset](https://docs.google.com/spreadsheets/d/1bzsF2O6jA3WzO8CGV849qJdO40vSlBiL/edit?usp=drive_link&ouid=105886618424154552337&rtpof=true&sd=true)
 
 #### Project Background
 
